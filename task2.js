@@ -9,8 +9,7 @@ const myName ={
     Name: "sami",
     Favoritecolor:"red",
   Weight: 61,
-  height: 167
-}
+  height: 167}
 
 console.log(typeof integer)
 
